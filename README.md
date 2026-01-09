@@ -1,30 +1,67 @@
-<h1 align="center">Hi 👋, I'm vaibhav agarwal</h1>
-<h3 align="center">A passionate Sodtware developer from India</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Vaibhav%20Agarwal&fontSize=70&animation=fadeIn" />
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
-
-
-- 🌱 I’m  **Full Stack Developer**
-
-- 💬 Ask me about **Python , Java , Javascript , C++ , GoLang**
-
-- 📫 How to reach me **agarwalvaibhavknp@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/vaibhavv____agarwall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaibhavv____agarwall/" height="30" width="40" /></a>
-<a href="https://twitter.com/https://x.com/vaibhavvagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vaibhavvagarwal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-agarwal-01b7842a6?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bbbayhtecs9ip1kkm75sqlq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-agarwal-01b7842a6?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bbbayhtecs9ip1kkm75sqlq%3d%3d" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/vaibhavvagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/vaibhavvagarwal" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/vaibhavagarwal37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/vaibhavagarwal37" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Python+%7C+Java+%7C+Go;Building+Modern+Web+Apps" alt="Typing SVG" />
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agarwalvaibhav-20&show_icons=true&locale=en&layout=compact" alt="agarwalvaibhav-20" /></p>
+I am a passionate **Full Stack Developer** from India with a deep love for architecting clean and efficient code. I enjoy building scalable applications and exploring new backend technologies.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agarwalvaibhav-20&show_icons=true&locale=en" alt="agarwalvaibhav-20" /></p>
+- 🔭 Currently working on: **Full Stack Architectures**
+- 🌱 Learning: **Microservices & Cloud Native Systems**
+- 💬 Ask me about: **Python, Java, JS, C++, GoLang**
+- 📫 Reach me at: **agarwalvaibhavknp@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agarwalvaibhav-20&" alt="agarwalvaibhav-20" /></p>
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,js,cpp,go,c,html,css" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,express,nodejs,mongodb,mysql" alt="Frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,docker,figma,git,postman,tensorflow" alt="Tools" />
+</p>
+
+---
+
+### 📊 My GitHub Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=agarwalvaibhav-20&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agarwalvaibhav-20&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=agarwalvaibhav-20&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/vaibhav-agarwal-01b7842a6" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/vaibhavvagarwal" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/vaibhavv____agarwall/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.behance.net/vaibhavagarwal37" target="blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://dribbble.com/vaibhavvagarwal" target="blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agarwalvaibhav-20&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/agarwalvaibhav-20/agarwalvaibhav-20/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
